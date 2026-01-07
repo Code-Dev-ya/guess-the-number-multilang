@@ -2,7 +2,7 @@
 
 An interactive console-based Guess the Number game implemented in **C** and later **ported to Python** to demonstrate strong fundamentals and language-independent problem solving.
 
-##Features
+## Features
 
 - **Multiple Difficulty Modes**
   - Easy (8 attempts)
@@ -20,7 +20,7 @@ An interactive console-based Guess the Number game implemented in **C** and late
 
 ---
 
-##What I Learned
+## What I Learned
 
 This project helped me understand and implement:
 
@@ -35,7 +35,7 @@ The Python version was built after the C version, using the same logical structu
 
 ---
 
-##How to Run
+## How to Run
 
 C Version:
 Compile the program using:
