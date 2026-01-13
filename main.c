@@ -78,6 +78,10 @@ int main(){
             printf("Do you wish to Continue type Y for yes N for no:");
             scanf(" %c",&wish);
 
+            if (wish >= 'a' && wish <= 'z'){
+                wish -= 32;
+            }    
+
             if (wish == 'Y'){
                 continue;
             }
